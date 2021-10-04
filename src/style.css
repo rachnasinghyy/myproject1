@@ -1,0 +1,189 @@
+/*.heading{
+	color: blue;
+	font-size: 20px;
+}
+
+.bottem-space{
+	margin-bottom: 6px;
+
+}
+
+.input-space{
+	width: 180px;
+	height: 16px;
+
+}
+
+.label-text{
+	display: inline-block;
+	width: 160px;
+}*/
+
+.heading{
+  color: blue;
+  font-size: 20px;
+}
+
+.lable-Text {
+	display: inline-block;
+	width: 225px;
+	font-size: 22px;
+}
+
+
+
+.bottom-space{
+  margin-bottom: 6px;
+}
+
+.center-text{
+	display: flex;
+	justify-content: flex-start;
+	align-items: center;
+  }
+  
+.input-space{
+	width: 300px;
+	/* height: 16px; */
+	font-size: 22px;
+}
+
+.font{
+	font-size: 22px;
+}
+
+.car-img{
+	width: 200px;
+}
+
+.main-content{
+	height: 94vh;
+	border: 1px solid;
+}
+
+.header{
+	height: 10%;
+	border: 1px solid;
+}
+
+.body{
+	height:88% ;
+	display: flex;
+	flex-direction: row;
+	border: 1px solid;
+
+}
+
+.sidebar{
+	border: 1px solid;
+	width: 25%;
+}
+
+.content{
+	border: 1px solid;
+	width: 75%;
+}
+
+.pages{
+	border: 1px solid;
+	height: 90%;
+
+}
+
+.footer{
+	border: 1px solid;
+	height: 9%;
+}
+
+.btn{
+	border: 1px solid;
+	padding: 10px 25px 10px 25px;
+	display: block;
+	background-color: gray;
+	color: white;
+	text-decoration: none;
+	margin: 15px;
+
+}
+
+.active-btn{
+	background-color: blue;
+}
+
+/* interview page */
+
+.container{
+	height: 50vh;
+    width: 135vh;
+    border: 1px solid;
+}
+
+.small-conatiner{
+	height: 50vh;
+    width: 131vh;
+    /* border: 1px solid; */
+    margin-left: 5vh;
+}
+
+.box-1{
+	/* border: 1px solid; */
+	display: flex;
+	flex-direction: row;
+	padding: 0px 17px 13px 0px;
+}
+
+.box-2{
+	width:68%;
+}
+
+.box-small{
+	/* border: 1px solid; */
+	display: flex;
+	flex-direction: row;
+}
+
+.lable-Text1 {
+	display: inline-block;
+	width: 106px;
+  }
+
+.input-space1{
+	margin-right: 11vh;
+  }
+.input-space2{
+	width: 65%;
+}
+
+.butt{
+	border: 1px solid;
+    /* padding: 10px 31px 12px 163px; */
+    display: block;
+    background-color: #283593;
+    color: white;
+    height: 4vh;
+    /* width: 106px; */
+    text-decoration: none;
+    margin: 15px;
+    margin-left: 85vh;
+	cursor: pointer;
+}
+
+.icon{
+	width: 25px;
+	margin-left: 10px;
+	cursor: pointer;
+}
+
+.icon-align{
+	display: flex;
+	flex-direction: row;
+}
+
+.create-btn{
+	background-color: #3f51b5;
+	color: white;
+	padding-top: 8px;
+	padding-bottom: 8px;
+	padding-right: 15px;
+	padding-left: 15px;
+}
